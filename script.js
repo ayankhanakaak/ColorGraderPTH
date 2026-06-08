@@ -1,5 +1,3 @@
-            <script type='module'>
-            //<![CDATA[
                 import { Client } from "https://cdn.jsdelivr.net/npm/@gradio/client@latest/dist/index.min.js";
 
                 const fileInput = document.getElementById('file-upload');
@@ -123,5 +121,3 @@
                         });
                     }
                 });
-            //]]>
-            </script>
